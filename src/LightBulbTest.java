@@ -17,6 +17,7 @@ LightBulb myBulb;
 		
 		myBulb.addPower(60);
 		assertEquals(100,myBulb.getWatts());
+		//check
 	}
 
 }
