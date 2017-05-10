@@ -12,7 +12,7 @@ LightBulb myBulb;
 
 	@Test
 	public void test() {
-		//fail("Not yet implemented");
+	
 		
 		
 		myBulb.addPower(60);
